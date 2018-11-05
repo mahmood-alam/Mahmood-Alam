@@ -195,6 +195,18 @@
 		top: 0;
 	}
 
+	#projectbg {
+
+		background: #348cb2 url("images/talltrees.jpg") bottom left;
+
+		height: 100%;
+		left: 0;
+		opacity: 1;
+		position: fixed;
+		top: 0;
+	}
+
+
 	@-moz-keyframes bg {
 		0% {
 			-moz-transform: translate3d(0,0,0);
