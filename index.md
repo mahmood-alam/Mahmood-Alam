@@ -1,37 +1,55 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html>
+<!-- saved from url=(0030)https://rohitbhatta.github.io/ -->
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+		<title>Rohit Bhatta</title>
+		<link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+		<link rel="icon" href="favicon.ico" type="image/x-icon">
+		
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
+		<link rel="stylesheet" href="assets/css/main.css">
+		<!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
+		<!--[if lte IE 9]><link rel="stylesheet" href="assets/css/ie9.css" /><![endif]-->
+	</head>
+	<body class="">
+		<div id="wrapper">
+			<div id="bg"></div>
+			<div id="overlay"></div>
+			<div id="main">
 
-You can use the [editor on GitHub](https://github.com/malam2016/Mahmood-Alam/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+				<!-- Header -->
+					<header id="header">
+						<h1>Rohit Bhatta</h1>
+						<p>The University of Texas at Austin &nbsp;â€¢&nbsp; BS Computer Science &nbsp;â€¢&nbsp; Turing Scholar Class of 2019</p>
+						<nav>
+							<ul>
+								<li><a href="aboutme/index.html">ABOUT</a></li>
+								<li><a href="resume/RohitBhatta_Resume_Fall2018.pdf">RESUME</a></li>
+								<li><a href="projects/index.html">PROJECTS</a></li>
+								<li><a href="contact/index.html">CONTACT</a></li>
+							</ul>
+						</nav>
+						<nav>
+							<ul>
+								<li><a href="https://www.linkedin.com/in/rohit-bhatta" class="icon fa-linkedin"><span class="label">LinkedIn</span></a></li>
+								<li><a href="https://github.com/RohitBhatta" class="icon fa-github"><span class="label">Github</span></a></li>
+								<li><a href="mailto:rohitbhatta25@gmail.com" class="icon fa-envelope-o"><span class="label">Email</span></a></li>
+							</ul>
+						</nav>
+					</header>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+				<!-- Footer -->
+					<footer id="footer">
+						<!-- <span class="copyright">© Untitled. Design: <a href="http://html5up.net/">HTML5 UP</a>.</span> -->
+					</footer>
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/malam2016/Mahmood-Alam/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+			</div>
+		</div>
+		<!--[if lte IE 8]><script src="assets/js/ie/respond.min.js"></script><![endif]-->
+		<script>
+			window.onload = function() { document.body.className = ''; }
+			window.ontouchmove = function() { return false; }
+			window.onorientationchange = function() { document.body.scrollTop = 0; }
+		</script>
+	
+</body></html>
